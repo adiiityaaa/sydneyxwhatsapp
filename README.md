@@ -11,7 +11,6 @@ Turn your normal WhatsApp experience into something which you would have never e
 4. SydneyGPT and Chatbot are now active on your WhatsApp account.
 
 # Line of Code
-const qrcode = require('qrcode-terminal');
 client.on('qr', qr => {
     qrcode.generate(qr, {small: true});
 });
