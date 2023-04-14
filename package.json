@@ -1,0 +1,18 @@
+{
+    "name": "Meridian",
+    "version": "2.0.0",
+    "description": "One of the Finest Lavalink Music Bot developed in discord.js with nodejs v17",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index js"
+    },
+    "author": "Jarvis",
+  "type":"module",
+    "license": "ISC",
+    "dependencies": {
+  "bing-chat":"^0.2.3",
+  "qrcode-terminal":"^0.12.0",
+  "whatsapp-web.js":"^1.19.5"
+    }
+  }
+  
